@@ -1,5 +1,5 @@
 <h1 style="text-align:center"> Sentiment Analysis </h1>
-
+<img style="display: block; margin: auto;" alt="photo"  width="400" src="./images/Sentiment.png">
 
 
 ## Objectives
